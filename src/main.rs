@@ -8,6 +8,7 @@ fn main() {
 }
 
 fn setup_cam(
+    //test
     mut commands: Commands,
 ) {
     commands.spawn(Camera3dBundle::default());
